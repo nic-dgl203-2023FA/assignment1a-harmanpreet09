@@ -19,6 +19,7 @@ img{
 /* profile */
 header{
     background: #2F3061;
+    color: #F7FFF7;
 }
 /* projects */
 .projects{
@@ -31,4 +32,5 @@ header{
 /* contact info  */
 footer{
     background: #343434 ;
+    color: #F7FFF7;
 }
