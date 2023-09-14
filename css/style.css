@@ -21,5 +21,11 @@ header{
     background: #2F3061;
 }
 /* projects */
+.projects{
+    background: #F7FFF7;
+}
 /* work experience  */
+.work-experience{
+    background: #A1C6D7;
+}
 /* contact info  */
