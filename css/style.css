@@ -39,7 +39,7 @@ header{
     border-radius: 4px;
 }
 .projects a:hover{
-    background: rgba(47, 48, 97,);
+    background: rgba(47, 48, 97,80%);
 }
 /* work experience  */
 .work-experience{
