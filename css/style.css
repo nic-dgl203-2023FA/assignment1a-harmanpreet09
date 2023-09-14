@@ -38,6 +38,9 @@ header{
     padding: 8px;
     border-radius: 4px;
 }
+.projects a:hover{
+    background: rgba(47, 48, 97,);
+}
 /* work experience  */
 .work-experience{
     background: #A1C6D7;
