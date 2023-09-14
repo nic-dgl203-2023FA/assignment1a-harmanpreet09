@@ -8,6 +8,18 @@ https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
 #A1C6D7 - blue light
 */
 
+/* global Style */
+body{
+    color: #343434;
+}
+
 img{
     width: 300px;
 }
+/* profile */
+header{
+    background: #2F3061;
+}
+/* projects */
+/* work experience  */
+/* contact info  */
