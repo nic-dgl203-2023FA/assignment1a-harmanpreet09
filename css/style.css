@@ -22,6 +22,9 @@ img{
 a:hover{
     text-decoration: none;
 }
+.content-wrap{
+    width: 900px;
+}
 /* profile */
 header{
     background: #2F3061;
