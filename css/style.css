@@ -42,6 +42,7 @@ h2{
 }
 h1,h2{
     font-family: 'Caveat', cursive;
+    font-weight: 400px;
 }
 /* profile */
 header{
