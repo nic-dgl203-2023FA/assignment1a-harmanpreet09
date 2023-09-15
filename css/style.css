@@ -34,6 +34,9 @@ a:hover{
 h2{
     margin: 0;
 }
+h1,h2{
+    font-family: 'Caveat', cursive;
+}
 /* profile */
 header{
     background: #2F3061;
