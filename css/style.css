@@ -29,6 +29,9 @@ a:hover{
     margin: 0 auto;
     padding: 60px 0;
 }
+h2{
+    margin: 0;
+}
 /* profile */
 header{
     background: #2F3061;
