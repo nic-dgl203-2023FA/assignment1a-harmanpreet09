@@ -37,12 +37,12 @@ h1{
     font-size: 100px;
 }
 h2{
-    margin: 0;
     font-size: 45px;
 }
 h1,h2{
     font-family: 'Caveat', cursive;
     font-weight: 400px;
+    margin: 0;
 }
 /* profile */
 header{
