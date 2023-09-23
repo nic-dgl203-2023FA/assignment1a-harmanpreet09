@@ -80,6 +80,7 @@ header{
 }
 .project-item img{
     float: left;
+    margin: 20px;
 }
 /* work experience  */
 .work-experience{
