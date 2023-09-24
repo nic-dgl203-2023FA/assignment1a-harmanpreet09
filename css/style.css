@@ -56,6 +56,7 @@ h1,h2{
 header{
     background: #2F3061;
     color: #F7FFF7;
+    text-align: center;
 }
 /* projects */
 .projects{
