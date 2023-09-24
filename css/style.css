@@ -85,6 +85,9 @@ header{
     float: left;
     margin: 20px;
 }
+.project-item h3{
+    margin-top: 0;
+}
 /* work experience  */
 .work-experience{
     background: #A1C6D7;
