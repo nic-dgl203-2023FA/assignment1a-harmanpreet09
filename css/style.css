@@ -154,8 +154,9 @@ footer{
 @media screen and (max-width:749px){
     h1{
         font-size: 75px;
+        line-height: 1;
     }
-    h1,h2{
+    h2{
         line-height: 1;
     }
 }
