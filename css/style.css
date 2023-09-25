@@ -113,6 +113,11 @@ header{
     grid-template-columns: 1fr 2fr;
     column-gap: 20px;
 }
+/* education  */
+.education{
+    background-image: url(../placeholder\ images/joanna-kosinska-unsplash.jpg);
+}
+
 /* contact info  */
 footer{
     background: #343434 ;
