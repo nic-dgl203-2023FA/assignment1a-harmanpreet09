@@ -65,6 +65,9 @@ h1,h2{
     border-bottom: 1px dashed #343434;
     padding: 25px 0;
 }
+.divider > section:last-of-type{
+border-bottom: none;
+}
 /* profile */
 header{
     background: #2F3061;
@@ -91,8 +94,6 @@ header{
 }
 .project-item{
     overflow: hidden;
-    border-bottom: 1px dashed #343434;
-    padding: 25px 0;
     
 }
 .project-item img{
