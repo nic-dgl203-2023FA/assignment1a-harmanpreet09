@@ -58,8 +58,12 @@ h1,h2{
     font-weight: 400;
     margin: 0;
 }
-h3 ~ p{
+.item-details h3 ~ p{
     margin: 0;
+}
+.divider > section{
+    border-bottom: 1px dashed #343434;
+    padding: 25px 0;
 }
 /* profile */
 header{
