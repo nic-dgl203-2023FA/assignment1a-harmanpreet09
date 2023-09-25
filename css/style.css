@@ -116,6 +116,7 @@ header{
 /* education  */
 .education{
     background-image: url(../placeholder\ images/joanna-kosinska-unsplash.jpg);
+    background-size: cover;
 }
 
 /* contact info  */
