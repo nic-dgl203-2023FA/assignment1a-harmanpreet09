@@ -69,6 +69,13 @@ h1,h2{
 .divider > section:last-of-type{
 border-bottom: none;
 }
+/* navigation */
+li {
+    display: inline;
+  }
+  ul{
+    float: right;
+  }
 /* profile */
 .profile-image{
     max-width: 800px;
