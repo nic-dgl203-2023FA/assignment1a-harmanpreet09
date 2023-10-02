@@ -135,12 +135,12 @@ header{
 }
 /* work experience  */
 .work-experience{
-    background: #A1C6D7;
+    background: #9fffcb;
 }
 
 /* education  */
 .education{
-    background-image: url(../placeholder\ images/joanna-kosinska-unsplash.jpg);
+    background-image: url(../images/education.jpg);
     background-size: cover;
     background-position: top right;
     padding-bottom: 100px;
