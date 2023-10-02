@@ -26,7 +26,7 @@ body{
 }
 
 a{
-    color: #FFE66D;
+    color: white;
 }
 
 img{
@@ -75,6 +75,18 @@ li {
   }
   ul{
     float: right;
+    
+    padding-right: 23px;
+    position: fixed;
+    margin-left: auto;
+    left: 65%;
+  }
+  ul li{
+    padding: 12px;
+    font-size: 23px;
+  }
+  li a:hover {
+    background-color: #00a5cf;
   }
 /* profile */
 .profile-image{
