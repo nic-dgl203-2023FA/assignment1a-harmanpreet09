@@ -70,6 +70,12 @@ h1,h2{
 border-bottom: none;
 }
 /* profile */
+.profile-image{
+    max-width: 800px;
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 65px;
+}
 header{
     background: #004e64;
     color: #F7FFF7;
