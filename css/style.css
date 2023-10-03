@@ -88,6 +88,7 @@ border-bottom: none;
  .navigation li a:hover {
     background-color: #00a5cf;
   }
+  
 /* profile */
 .profile-image{
     max-width: 800px;
@@ -183,6 +184,7 @@ footer{
         display: flex;
         justify-content: center;
     }
+  
 }
 @media screen and (max-width:749px){
     h1{
@@ -195,5 +197,20 @@ footer{
     }
     .contact-list a{
         padding: 5px;
+    }
+  
+}
+@media screen and (max-width:900px){
+    .nav_responsive ul{
+        float: right;
+        padding-right: 23px;
+        position: fixed;
+        margin-left: auto;
+        left: 0;
+        
+       }
+       .navigation ul li {
+       
+        font-size: 15px;
     }
 }
