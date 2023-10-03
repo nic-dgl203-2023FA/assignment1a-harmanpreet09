@@ -178,6 +178,8 @@ footer{
     border-radius: 2px;
     
   }
+  /* modal box */
+   /* Taken from stack overflow */
   a.modal {
     font-size: 36px;
 }   
