@@ -166,6 +166,7 @@ footer{
     padding: 15px;
     display: inline-block;
 }
+
 .modal a {
     background-color: black;
     color: #fff;
@@ -175,7 +176,11 @@ footer{
     line-height: 50px;
     text-decoration: none;
     border-radius: 2px;
+    
   }
+  a.modal {
+    font-size: 36px;
+}   
   a:hover {
     background-color: #00a5cf;
   }
