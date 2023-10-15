@@ -449,3 +449,6 @@ ul .portfolio{
         font-size: 30px; /* End at the original font size */
     }
 }
+.grid-item .svg_image{
+    width: 69%;
+}
