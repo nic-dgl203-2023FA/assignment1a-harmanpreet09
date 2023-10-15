@@ -439,5 +439,13 @@ ul .portfolio{
     font-size: 40px;
     font-weight: bold;
     color: #fff;
-    animation: pulse 5s infinite alternate;
+    animation: pulse 2s infinite alternate;
+}
+@keyframes pulse {
+    0% {
+        font-size: 40px; /* Start with a larger font size */
+    }
+    100% {
+        font-size: 30px; /* End at the original font size */
+    }
 }
