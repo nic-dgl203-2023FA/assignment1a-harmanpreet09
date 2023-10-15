@@ -73,13 +73,18 @@ border-bottom: none;
 .navigation li {
     display: inline;
   }
+  nav.navigation.nav_responsive {
+    position: sticky;
+    top: 0;
+}
   .navigation ul{
-    float: right;
+    margin: 0;
+   
+    background-color: #7ae582;
+    padding: 10px;
     
-    padding-right: 23px;
-    position: fixed;
-    margin-left: auto;
-    left: 65%;
+    width: 100%;
+    text-align: right;
   }
  .navigation ul li{
     padding: 12px;
