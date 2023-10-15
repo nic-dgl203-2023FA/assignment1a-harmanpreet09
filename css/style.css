@@ -407,3 +407,8 @@ ul .portfolio{
     max-width: 731px;
     margin: 0 auto;
 }
+.grid-item {
+    padding: 20px;
+    text-align: center;
+    background-color: #004e64;
+}
