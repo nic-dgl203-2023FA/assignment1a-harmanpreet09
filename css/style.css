@@ -398,3 +398,12 @@ ul .portfolio{
    
     padding: 0;
 }
+/* grid css */
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+    padding: 15px;
+    max-width: 731px;
+    margin: 0 auto;
+}
