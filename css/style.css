@@ -439,4 +439,5 @@ ul .portfolio{
     font-size: 40px;
     font-weight: bold;
     color: #fff;
+    animation: pulse 5s infinite alternate;
 }
