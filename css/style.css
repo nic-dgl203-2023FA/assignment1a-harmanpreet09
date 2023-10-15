@@ -412,3 +412,9 @@ ul .portfolio{
     text-align: center;
     background-color: #004e64;
 }
+/* hover grid css */
+.hover-btn:hover {
+    background-color: #00a5cf;
+    font-size: 20px;
+    padding: 20px 35px;
+}
