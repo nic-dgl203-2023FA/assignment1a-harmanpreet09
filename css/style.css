@@ -449,6 +449,23 @@ ul .portfolio{
         font-size: 30px; /* End at the original font size */
     }
 }
+/* svg images */
 .grid-item .svg_image{
     width: 69%;
+}
+.svg_image{
+    animation: moveBackAndForth 1s;
+}
+@keyframes moveBackAndForth {
+   
+    100% {
+        transform: translateX(50px); /* Adjust the distance the circle moves */
+    }
+}
+.svg_image:hover {
+    animation-name: move;
+    animation-duration: 3s;
+  animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
 }
