@@ -469,4 +469,14 @@ ul .portfolio{
     animation-iteration-count: infinite;
   animation-direction: alternate-reverse;
 }
-    
+/* Blinking text css */
+.phrase {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-right: 0.1em;
+    border-right: 0.15em solid #000;
+    width: 0;
+    animation: typing 5s steps(15) infinite,
+            blink 0.4s steps(1) infinite;
+}
