@@ -514,3 +514,19 @@ ul .portfolio{
 .rotate-word:hover .name-1 {
     transform: rotateX(360deg); 
 }
+/* cubic-bezie css */
+.box {
+    width: 100px;
+    height: 100px;
+    animation: scaleAndColor 3s infinite;
+}
+@keyframes scaleAndColor {
+    0%, 100% {
+        transform: scale(1);
+        background-color: #00a5cf;
+    }
+    50% {
+        transform: scale(1.2) rotate(5deg);
+        background-color: #7ae582;
+    }
+}
