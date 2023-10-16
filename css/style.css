@@ -503,3 +503,14 @@ ul .portfolio{
     display: inline-block;
     perspective: 1000px; 
 }
+.rotate-word .name-1 {
+    display: inline-block;
+    transform-style: preserve-3d;
+    transition: transform 0.7s;
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffff;
+}
+.rotate-word:hover .name-1 {
+    transform: rotateX(360deg); 
+}
