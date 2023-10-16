@@ -388,6 +388,7 @@ input[type=text], select, textarea {
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
         width: 95%;
     }
+    
 }
 /* motion page css */
 ul .portfolio{
@@ -528,5 +529,12 @@ ul .portfolio{
     50% {
         transform: scale(1.2) rotate(5deg);
         background-color: #7ae582;
+    }
+}
+/* media query for motion.html */
+@media (max-width: 767px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(6, 1fr);
     }
 }
