@@ -498,3 +498,8 @@ ul .portfolio{
         width: 100%;
     }
   }
+  /* Rotate word css */
+  .rotate-word {
+    display: inline-block;
+    perspective: 1000px; 
+}
