@@ -561,3 +561,6 @@ ul .portfolio{
     animation: scaleAnimation 0.8s ease-in-out ;
     animation-fill-mode: both;
   }
+  #left_star {
+    animation-delay: 0.2s;
+  }
