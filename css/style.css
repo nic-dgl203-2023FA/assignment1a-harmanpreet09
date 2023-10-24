@@ -538,3 +538,14 @@ ul .portfolio{
         grid-template-rows: repeat(6, 1fr);
     }
 }
+/* animation css */
+@keyframes scaleAnimation {
+    0% {
+      transform: scale(0);
+      opacity: 0;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
