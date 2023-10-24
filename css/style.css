@@ -549,7 +549,9 @@ ul .portfolio{
       opacity: 1;
     }
   }
-
+  svg.svg-width {
+    width: 50%;
+}
   #left_star,
   #bottom_right_star-2,
   #upper_star-2,
