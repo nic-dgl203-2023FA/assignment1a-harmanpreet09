@@ -549,3 +549,15 @@ ul .portfolio{
       opacity: 1;
     }
   }
+
+  #left_star,
+  #bottom_right_star-2,
+  #upper_star-2,
+  #left_upper_star-2,
+  #right_upper_star-2,
+  #circle-2,
+  #left_side_word,
+  #right_side_word {
+    animation: scaleAnimation 0.8s ease-in-out ;
+    animation-fill-mode: both;
+  }
