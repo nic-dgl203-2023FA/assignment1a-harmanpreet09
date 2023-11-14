@@ -1,1 +1,43 @@
-/*# sourceMappingURL=main.css.map */
+.navigation li {
+  display: inline;
+}
+.navigation.nav_responsive {
+  position: sticky;
+  top: 0;
+}
+.navigation ul {
+  margin: 0;
+  background-color: #7ae582;
+  padding: 10px;
+  width: 100%;
+  text-align: right;
+}
+.navigation ul li {
+  padding: 12px;
+  font-size: 23px;
+}
+.navigation ul li a:hover {
+  background-color: #00a5cf;
+}
+
+.navigation li {
+  display: inline;
+}
+.navigation.nav_responsive {
+  position: sticky;
+  top: 0;
+}
+.navigation ul {
+  margin: 0;
+  background-color: #7ae582;
+  padding: 10px;
+  width: 100%;
+  text-align: right;
+}
+.navigation ul li {
+  padding: 12px;
+  font-size: 23px;
+}
+.navigation ul li a:hover {
+  background-color: #00a5cf;
+}/*# sourceMappingURL=main.css.map */

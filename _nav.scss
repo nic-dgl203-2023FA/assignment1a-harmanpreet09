@@ -1,0 +1,28 @@
+.navigation {
+    li {
+      display: inline;
+    }
+  
+    &.nav_responsive {
+      position: sticky;
+      top: 0;
+    }
+  
+    ul {
+      margin: 0;
+      background-color: #7ae582;
+      padding: 10px;
+      width: 100%;
+      text-align: right;
+  
+      li {
+        padding: 12px;
+        font-size: 23px;
+  
+        a:hover {
+          background-color: #00a5cf;
+        }
+      }
+    }
+  }
+  
