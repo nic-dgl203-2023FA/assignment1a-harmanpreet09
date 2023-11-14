@@ -551,6 +551,8 @@ ul .portfolio{
   }
   svg.svg-width {
     width: 50%;
+    display: block;
+    margin: auto;
 }
   #left_star,
   #bottom_right_star-2,
@@ -587,3 +589,4 @@ ul .portfolio{
   #right_side_word {
     animation-delay: 1.6s;
   }
+  
