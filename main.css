@@ -5,6 +5,10 @@
   position: sticky;
   top: 0;
 }
+.navigation nav.navigation.navigation--responsive {
+  position: sticky;
+  top: 0;
+}
 .navigation ul {
   margin: 0;
   background-color: #7ae582;
@@ -70,6 +74,10 @@ header {
 }
 .projects .project-item h3 {
   margin-top: 0;
+}
+
+.work-experience {
+  background: #9fffcb;
 }
 
 html {

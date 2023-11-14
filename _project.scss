@@ -1,34 +1,33 @@
 .projects {
-    background-color: #00a5cf;
-  
-    a {
-      color: #2F3061;
-    }
-  
-    .btn {
-      color: #F7FFF7;
-      background: #2F3061;
-      text-decoration: none;
-      padding: 8px;
-      border-radius: 4px;
-      display: inline-block;
-  
-      &:hover {
-        background: rgba(47, 48, 97, 80%);
-      }
-    }
-  
-    .project-item {
-      overflow: hidden;
-  
-      img {
-        float: left;
-        margin: 20px;
-      }
-  
-      h3 {
-        margin-top: 0;
-      }
+  background-color: #00a5cf;
+
+  a {
+    color: #2F3061;
+  }
+
+  .btn {
+    color: #F7FFF7;
+    background: #2F3061;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+    display: inline-block;
+
+    &:hover {
+      background: rgba(47, 48, 97, 80%);
     }
   }
-  
+
+  .project-item {
+    overflow: hidden;
+
+    img {
+      float: left;
+      margin: 20px;
+    }
+
+    h3 {
+      margin-top: 0;
+    }
+  }
+}
