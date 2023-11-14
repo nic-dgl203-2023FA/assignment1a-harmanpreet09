@@ -44,6 +44,34 @@ header {
   color: #f7fff7;
 }
 
+.projects {
+  background-color: #00a5cf;
+}
+.projects a {
+  color: #2F3061;
+}
+.projects .btn {
+  color: #F7FFF7;
+  background: #2F3061;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.projects .btn:hover {
+  background: rgba(47, 48, 97, 0.8);
+}
+.projects .project-item {
+  overflow: hidden;
+}
+.projects .project-item img {
+  float: left;
+  margin: 20px;
+}
+.projects .project-item h3 {
+  margin-top: 0;
+}
+
 html {
   box-sizing: border-box;
 }
