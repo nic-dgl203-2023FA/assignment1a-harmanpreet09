@@ -1,0 +1,25 @@
+.header {
+  &__profile-image {
+    max-width: 800px;
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 65px;
+
+    & img {
+      border-radius: 12px;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      width: 22%;
+    }
+  }
+  .header__content-wrap{
+    max-width: 800px;
+    width: 85%;
+    margin: 0 auto;
+    padding: 80px 0;
+    text-align: center;
+  }
+}
+header {
+  background: #004e64;
+  color: #f7fff7;
+}

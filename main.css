@@ -20,26 +20,28 @@
   background-color: #00a5cf;
 }
 
-.navigation li {
-  display: inline;
+.header__profile-image {
+  max-width: 800px;
+  width: 85%;
+  margin: 0 auto;
+  padding-top: 65px;
 }
-.navigation.nav_responsive {
-  position: sticky;
-  top: 0;
+.header__profile-image img {
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 22%;
 }
-.navigation ul {
-  margin: 0;
-  background-color: #7ae582;
-  padding: 10px;
-  width: 100%;
-  text-align: right;
+.header .header__content-wrap {
+  max-width: 800px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 80px 0;
+  text-align: center;
 }
-.navigation ul li {
-  padding: 12px;
-  font-size: 23px;
-}
-.navigation ul li a:hover {
-  background-color: #00a5cf;
+
+header {
+  background: #004e64;
+  color: #f7fff7;
 }
 
 html {
