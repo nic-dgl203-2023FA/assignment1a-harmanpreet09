@@ -80,6 +80,16 @@ header {
   background: #9fffcb;
 }
 
+.education {
+  background-image: url(../images/education.jpg);
+  background-size: cover;
+  background-position: top right;
+  padding-bottom: 100px;
+}
+.education p {
+  width: 60%;
+}
+
 html {
   box-sizing: border-box;
 }
