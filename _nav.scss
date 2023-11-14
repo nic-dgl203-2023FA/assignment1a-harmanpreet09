@@ -3,14 +3,8 @@
       display: inline;
     }
   
-    &.nav_responsive {
-      position: sticky;
-      top: 0;
-    }
-  nav.navigation.navigation--responsive{
-    position: sticky;
-    top: 0;
-  }
+   
+ 
     ul {
       margin: 0;
       background-color: #7ae582;
@@ -27,6 +21,10 @@
         }
       }
     }
+  }
+  nav.navigation.navigation--responsive{
+    position: sticky;
+    top: 0;
   }
   
   

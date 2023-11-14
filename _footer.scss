@@ -1,0 +1,27 @@
+footer {
+    background: #343434;
+    color: #F7FFF7;
+  
+    .content-wrap {
+      padding: 20px 0;
+    }
+  
+    h2 {
+      margin-bottom: 20px;
+    }
+  
+    .contact-list {
+      list-style-type: none;
+      padding: 0;
+  
+      li {
+        margin-bottom: 10px;
+      }
+  
+      a {
+        padding: 15px;
+        display: inline-block;
+      }
+    }
+  }
+  
